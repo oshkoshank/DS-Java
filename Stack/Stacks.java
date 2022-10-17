@@ -23,7 +23,7 @@ public class Stacks
             switch (ch) {
                 case 1: System.out.println("Enter the element to push");
                     int e = o.nextInt();
-                                        
+
                     break;
             
                 default:
